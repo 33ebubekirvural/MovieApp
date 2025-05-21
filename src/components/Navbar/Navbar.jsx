@@ -1,9 +1,10 @@
-import React from 'react'
-import './navbar.css'
+import React from 'react';
 
-import { TiHome } from 'react-icons/ti'
-import { FaHeart } from 'react-icons/fa'
-import { PiFilmReelFill } from 'react-icons/pi'
+import { TiHome } from 'react-icons/ti';
+import { FaHeart } from 'react-icons/fa';
+import { PiFilmReelFill } from 'react-icons/pi';
+
+import './Navbar.css';
 
 
 
